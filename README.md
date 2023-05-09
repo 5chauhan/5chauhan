@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **Html,Css,Js,Data Structures, Algorithms, Web-Development**
+- 💬 Ask me about **Html,Css,Js,Decipher,Python,Excel**
 
 - 📫 How to reach me **isurabhkumar@gmail.com**
 
