@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently looking for work ****
 
 - 💬 Ask me about **Html,Css,Js,Decipher,Python,Excel**
 
